@@ -91,3 +91,7 @@ phishguard/
 ## 📜 License
 
 This project is for academic and educational use. Reach out if you want to adapt or extend it commercially.
+
+![Screenshot 2025-06-16 042340](https://github.com/user-attachments/assets/25b30360-6e0b-4a90-b835-32a5952b04c5)
+
+
