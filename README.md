@@ -93,5 +93,11 @@ phishguard/
 This project is for academic and educational use. Reach out if you want to adapt or extend it commercially.
 
 ![Screenshot 2025-06-16 042340](https://github.com/user-attachments/assets/25b30360-6e0b-4a90-b835-32a5952b04c5)
-
-
+![Screenshot 2025-06-15 190312](https://github.com/user-attachments/assets/9e3cb736-18b3-49c9-b0de-f9767a916fb9)
+![Screenshot 2025-06-15 190514](https://github.com/user-attachments/assets/b1d88225-f6dd-4be3-b689-dcd8c9d0ec5d)
+![Screenshot 2025-06-15 190532](https://github.com/user-attachments/assets/748dd55b-9f39-4e50-8d5a-e9098e3be8ac)
+![Screenshot 2025-06-15 190610](https://github.com/user-attachments/assets/9597e1e2-feec-4e59-8c47-54dbd1713eba)
+![Screenshot 2025-06-15 191051](https://github.com/user-attachments/assets/9826c0e8-d526-495f-9e8b-e154132a37a0)
+![Screenshot 2025-06-15 191246](https://github.com/user-attachments/assets/8391b918-f84c-465e-be3b-df741a4f3d53)
+![Screenshot 2025-06-15 191328](https://github.com/user-attachments/assets/9be6ea17-91a4-4a81-9fcd-c875996995e7)
+![Screenshot 2025-06-15 190359](https://github.com/user-attachments/assets/3b096d18-4ea8-4e0b-baab-96f932a54fbe)
